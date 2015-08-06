@@ -12,6 +12,4 @@ Scenario Outline: Calculator functions
 Examples: 
 |input1	|input2	|operation	|Result	|
 |"7"	|"8"	|"Add"	|"15"	|
-|"4.6"	|"5.7"	|"Add"	|"Please enter integers only"	|
-|"abd"	|"%^&"	|"Add"	|"Please enter integers only"	|
 |"7"	|"1000"	|"Add"	|"1007"	|
